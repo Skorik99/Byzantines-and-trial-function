@@ -26,6 +26,7 @@ FEDERATED_METHODS = [
     "bucketing",
     "safeguard",
     "fltrust",
+    "byz_vr_marina",
     "fedavg",
 ]
 ATTACK_TYPES = ["no_attack", "label_flip", "sign_flip", "random_grad", "alie", "ipm"]
